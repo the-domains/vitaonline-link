@@ -1,6 +1,6 @@
 name: VitaOnline.link
 favicon: null
-layout_spectrum: 0.12187050003558397
+layout_spectrum: 0.91903
 typography_spectrum: 0.31822647899389267
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5770113514736295
-  lightness: 0.597825417527929
-  saturation: 0.9272027681581676
-  rhythmicContrast: 0.5861936691217124
+    - '#ec1d78'
+    - '#000000'
+    - '#95124c'
+    - '#2a0515'
+    - '#4f0a28'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
