@@ -1,28 +1,47 @@
-name: VitaOnline.link
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.72879
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.5558677106966624
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#ED1077'
+    - '#F35B9E'
+    - '#808080'
+  brandStrength: 0.4098743351374633
+  lightness: 0.4150858129784096
+  saturation: 0.34779094408487554
+  rhythmicContrast: 0.5501554941057717
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2b1911'
-    - '#d6ba95'
-    - '#c49a6c'
-    - '#6e5139'
-    - '#94724f'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0.5
-purpose: []
+layout_spectrum: 0.953410984854223
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  url: 'http://www.vitaonline.link'
+  email: webmaster@vitaonline.link
+  name: Gustavo Domínguez
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12e5df2-7881-4bb9-97e4-720835e6fadb.png
+name: Vita Online
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9074bf3-3a03-4f67-86e0-af6715de4c41.png
+title: Vita Online
+content: []
+description: Fuck the colors.
+purpose:
+  - type: contact
+    url: 'mailto:webmaster@vitaonline.link'
+    label: Contacto
+  - type: external
+    url: 'http://www.vitaportal.com'
+    label: vitaportal.com
