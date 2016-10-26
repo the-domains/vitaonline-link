@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VitaOnline.link]]></title>
-        <description><![CDATA[VitaOnline.link]]></description>
-        <link>https://thegrid.ai/vitaonline-link/</link>
+        <title><![CDATA[Vita Online]]></title>
+        <description><![CDATA[Vita Online]]></description>
+        <link>http://vitaonline.link/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 21:17:39 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/vitaonline-link/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 26 Oct 2016 17:27:52 GMT</lastBuildDate>
+        <atom:link href="http://vitaonline.link/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 21 Oct 2016 05:44:45 GMT</pubDate>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Puse E!, el único canal análogo que [a veces] para comparar la calidad de imagen (léase: compresión) y es vastamente peor la de satélite que la de cable. Se notan las alturas hasta las que pretender ir en Dish por monetizar un satélite.</p>]]></description>
-            <link>https://thegrid.ai/vitaonline-link/puse-e-el-unico-canal-analogo-que-a-veces-para-comparar/index.html</link>
-            <guid isPermaLink="false">3f491a44-b81f-4e3e-96de-9d9881bbb143</guid>
-            <pubDate>Wed, 04 May 2016 21:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Considering this for publicity shots, BTW. Tell me what you think in the comments or better yet, directly over IM.</p>]]></description>
-            <link>https://thegrid.ai/vitaonline-link/considering-this-for-publicity-shots-btw-tell-me-what-you/index.html</link>
-            <guid isPermaLink="false">9441dab4-02bd-44f0-81c5-0e40cde9b6da</guid>
-            <pubDate>Wed, 04 May 2016 21:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sueño mágico</p>]]></description>
-            <link>https://thegrid.ai/vitaonline-link/sueno-magico/index.html</link>
-            <guid isPermaLink="false">91a57bae-4e27-4b14-b38c-98807114a4e2</guid>
-            <pubDate>Wed, 04 May 2016 21:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.vitaportal.com/vitaportal/2016/4/27/sueo-mgico</p>]]></description>
-            <link>https://thegrid.ai/vitaonline-link/httpwwwvitaportalcomvitaportal2016427sueo-mgico/index.html</link>
-            <guid isPermaLink="false">ed75b101-03f1-4141-8e0a-ba256226853d</guid>
-            <pubDate>Wed, 04 May 2016 21:13:08 GMT</pubDate>
+            <title><![CDATA[Sueño Mágico]]></title>
+            <description><![CDATA[<article><h1>Sueño Mágico</h1><p>Sueño mágicoTe evaporas en el aireSueño mágicoDe un suspiro despiertoSueño mágicoNo le digas a nadieSueño mágicoQue es algo siniestroSueño mágicoEuforia y armoníaSueño mágicoEs sólo fantasía</p></article>]]></description>
+            <link>http://vitaonline.link/sueno-magicote-evaporas-en-el-airesueno-magicode-un-suspiro/index.html</link>
+            <guid isPermaLink="false">34594840-e49d-421b-8df1-6a9375ce8868</guid>
+            <pubDate>Fri, 21 Oct 2016 05:44:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
