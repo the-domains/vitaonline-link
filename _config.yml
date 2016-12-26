@@ -1,5 +1,6 @@
-layout_spectrum: 0.3588460151069235
 typography_spectrum: 0.7160054333534756
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,13 +12,12 @@ color:
   lightness: 0.7894677257480672
   saturation: 0.18932863549707402
   rhythmicContrast: 0.6952946431719061
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3588460151069235
 analytics:
   google: null
   facebook: null
@@ -40,8 +40,8 @@ content: []
 description: Fuck the colors.
 purpose:
   - type: contact
-    url: 'mailto:webmaster@vitaonline.link'
-    label: Contacto
+    url: 'mailto:vita@vitaonline.link'
+    label: FaceTime
   - type: external
     url: 'http://www.vitaportal.com'
     label: vitaportal.com
